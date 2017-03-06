@@ -1,0 +1,7 @@
+baseurl = "http://pravnisavetizamame.rs/"
+languageCode = "sr-Latn-RS"
+title = "Pravni saveti za mame"
+description = "Mnogo pravnih saveta za mame na jednom mestu, da bi uživanje sa vašim mališanima bilo potpuno i bez prepreka."
+
+[params]
+  author = "Jelena Lukić Lakatoš"
